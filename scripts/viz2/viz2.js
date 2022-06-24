@@ -5,7 +5,7 @@ import * as tooltip from './tooltip.js'
 import * as legend from './legend.js'
 import * as bars from './bars.js'
 import * as button from './button.js'
-import d3Tip from 'd3-tip'
+import d3Tip from '../../node_modules/d3-tip/d3-tip.js'
 
 /**
  * Build the second vizualisation
