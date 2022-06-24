@@ -1,4 +1,4 @@
-import * as preprocess from './preprocess1'
+import * as preprocess from './preprocess1.js'
 
 // const colorMin = '#f70d1a'
 const colorMin = '#ffffff'
